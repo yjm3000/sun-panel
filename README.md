@@ -24,7 +24,9 @@
 A server, NAS navigation panel, Homepage, Browser homepage.
 <br>
 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
+默认账号密码
+账号：admin@sun.cc
+密码：12345678
 </div>
 
 
